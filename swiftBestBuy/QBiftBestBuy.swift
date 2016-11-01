@@ -9,11 +9,8 @@
 import UIKit
 
 class QBiftBestBuy: NSObject {
-    class QBCalculate: NSObject {
-        
-        func calculateAandB(intA: Int, intB: Int) -> Int {
-            return 10;
-        }
+    func calculateAandB(intA : Int, intB : Int) -> Int {
+        return 10;
     }
 
 }
