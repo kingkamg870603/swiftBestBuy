@@ -8,8 +8,8 @@
 
 import UIKit
 
-class QBiftBestBuy: NSObject {
-    func calculateAandB(intA : Int, intB : Int) -> Int {
+open class QBiftBestBuy: NSObject {
+    open func calculateAandB(intA : Int, intB : Int) -> Int {
         return 10;
     }
 
